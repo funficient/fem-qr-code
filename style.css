@@ -53,6 +53,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    padding: 1rem;
   }
   
   /* A elements that don't have a class get default styles */
