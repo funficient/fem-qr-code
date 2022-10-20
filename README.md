@@ -83,3 +83,5 @@ body {
 ## Acknowledgments
 
 A big thank you to the awesome projects on FrontEnd Mentor! It really is the best way to learn!
+
+A special shoutout to @fidellim and @correlucas for their very helpful feedback to improve my project.
